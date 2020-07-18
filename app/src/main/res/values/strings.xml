@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploFragments</string>
+    <string name="avatar_description">Esto es un avatar</string>
+    <string name="content_avatar">Esto es un Avatar de un integrante</string>
+</resources>

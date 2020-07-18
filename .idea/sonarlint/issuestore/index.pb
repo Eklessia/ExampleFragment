@@ -1,0 +1,21 @@
+
+É
+Sapp/src/main/java/cl/malditosnakamas/ejemplofragments/curso/domain/model/Curso.java,6/a/6ab6c5e298a412b4d9d5cce942f3bc209a90da3e
+à
+Xapp/src/main/java/cl/malditosnakamas/ejemplofragments/curso/domain/model/Integrante.java,6/b/6b2b51cc8dd190eee67adf58586832bf132143af
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+ã
+[app/src/main/java/cl/malditosnakamas/ejemplofragments/curso/domain/ObtenerCursoUseCase.java,4/6/46e0831a04f58c9d861ea1b4438502ba48fc1a4c
+á
+Wapp/src/main/java/cl/malditosnakamas/ejemplofragments/curso/domain/CursoRepository.java,6/b/6b0085af6f08a9efa8237c2ef35caa04327f69ab
+w
+Gapp/src/main/java/cl/malditosnakamas/ejemplofragments/MainActivity.java,f/0/f099114d16723d74ae4d0f8c251a4e50b9a473eb
+ä
+Zapp/src/main/java/cl/malditosnakamas/ejemplofragments/curso/presentation/CursoAdapter.java,2/7/2756ffae3e67570b921bab36520a3fe8d45f51d5
+ç
+]app/src/main/java/cl/malditosnakamas/ejemplofragments/curso/presentation/CursoViewHolder.java,5/b/5be8262f3d224304b482fdc87c38f64ed48b3651
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+ã
+[app/src/main/java/cl/malditosnakamas/ejemplofragments/curso/presentation/CursoFragment.java,7/c/7c33319c181112be57b84516ceac203ea2752b75

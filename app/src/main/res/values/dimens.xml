@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heigthItemCurso">150dp</dimen>
+    <dimen name="cornerItem">4dp</dimen>
+    <dimen name="elevationItem">6dp</dimen>
+    <dimen name="marginTop">30dp</dimen>
+    <dimen name="marginStart">20dp</dimen>
+    <dimen name="integranteMinHeigth">180dp</dimen>
+</resources>
